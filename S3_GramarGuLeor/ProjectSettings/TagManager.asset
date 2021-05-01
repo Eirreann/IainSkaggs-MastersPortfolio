@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LinePuzzle
+  - PointMarker
+  - MazeEdge
+  - LineHolder
+  - PositiveStatement
+  - NegativeStatement
+  - PositiveQuestion
+  - NegativeQuestion
+  - Root
+  - Past
+  - Future
+  - Conditional
+  - Intersection
+  - Form
+  - Tense
+  - PuzzleManager
+  - LevelManager
+  - Obstacle
+  - oldLineHolder
+  - oldPlayer
+  - Fire
+  - UIManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
