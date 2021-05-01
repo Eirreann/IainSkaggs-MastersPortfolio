@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 9a866f2c6e22cbc49944ff50e5869f5d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SBH_Funiture 1
+    100004: SBH_Funiture 10
+    100006: SBH_Funiture 11
+    100008: SBH_Funiture 12
+    100010: SBH_Funiture 13
+    100012: SBH_Funiture 14
+    100014: SBH_Funiture 15
+    100016: SBH_Funiture 16
+    100018: SBH_Funiture 17
+    100020: SBH_Funiture 18
+    100022: SBH_Funiture 19
+    100024: SBH_Funiture 2
+    100026: SBH_Funiture 20
+    100028: SBH_Funiture 21
+    100030: SBH_Funiture 22
+    100032: SBH_Funiture 23
+    100034: SBH_Funiture 24
+    100036: SBH_Funiture 25
+    100038: SBH_Funiture 26
+    100040: SBH_Funiture 27
+    100042: SBH_Funiture 28
+    100044: SBH_Funiture 29
+    100046: SBH_Funiture 3
+    100048: SBH_Funiture 4
+    100050: SBH_Funiture 5
+    100052: SBH_Funiture 6
+    100054: SBH_Funiture 7
+    100056: SBH_Funiture 8
+    100058: SBH_Funiture 9
+    400000: //RootNode
+    400002: SBH_Funiture 1
+    400004: SBH_Funiture 10
+    400006: SBH_Funiture 11
+    400008: SBH_Funiture 12
+    400010: SBH_Funiture 13
+    400012: SBH_Funiture 14
+    400014: SBH_Funiture 15
+    400016: SBH_Funiture 16
+    400018: SBH_Funiture 17
+    400020: SBH_Funiture 18
+    400022: SBH_Funiture 19
+    400024: SBH_Funiture 2
+    400026: SBH_Funiture 20
+    400028: SBH_Funiture 21
+    400030: SBH_Funiture 22
+    400032: SBH_Funiture 23
+    400034: SBH_Funiture 24
+    400036: SBH_Funiture 25
+    400038: SBH_Funiture 26
+    400040: SBH_Funiture 27
+    400042: SBH_Funiture 28
+    400044: SBH_Funiture 29
+    400046: SBH_Funiture 3
+    400048: SBH_Funiture 4
+    400050: SBH_Funiture 5
+    400052: SBH_Funiture 6
+    400054: SBH_Funiture 7
+    400056: SBH_Funiture 8
+    400058: SBH_Funiture 9
+    2100000: 'Material #10'
+    2300000: SBH_Funiture 1
+    2300002: SBH_Funiture 10
+    2300004: SBH_Funiture 11
+    2300006: SBH_Funiture 12
+    2300008: SBH_Funiture 13
+    2300010: SBH_Funiture 14
+    2300012: SBH_Funiture 15
+    2300014: SBH_Funiture 16
+    2300016: SBH_Funiture 17
+    2300018: SBH_Funiture 18
+    2300020: SBH_Funiture 19
+    2300022: SBH_Funiture 2
+    2300024: SBH_Funiture 20
+    2300026: SBH_Funiture 21
+    2300028: SBH_Funiture 22
+    2300030: SBH_Funiture 23
+    2300032: SBH_Funiture 24
+    2300034: SBH_Funiture 25
+    2300036: SBH_Funiture 26
+    2300038: SBH_Funiture 27
+    2300040: SBH_Funiture 28
+    2300042: SBH_Funiture 29
+    2300044: SBH_Funiture 3
+    2300046: SBH_Funiture 4
+    2300048: SBH_Funiture 5
+    2300050: SBH_Funiture 6
+    2300052: SBH_Funiture 7
+    2300054: SBH_Funiture 8
+    2300056: SBH_Funiture 9
+    3300000: SBH_Funiture 1
+    3300002: SBH_Funiture 10
+    3300004: SBH_Funiture 11
+    3300006: SBH_Funiture 12
+    3300008: SBH_Funiture 13
+    3300010: SBH_Funiture 14
+    3300012: SBH_Funiture 15
+    3300014: SBH_Funiture 16
+    3300016: SBH_Funiture 17
+    3300018: SBH_Funiture 18
+    3300020: SBH_Funiture 19
+    3300022: SBH_Funiture 2
+    3300024: SBH_Funiture 20
+    3300026: SBH_Funiture 21
+    3300028: SBH_Funiture 22
+    3300030: SBH_Funiture 23
+    3300032: SBH_Funiture 24
+    3300034: SBH_Funiture 25
+    3300036: SBH_Funiture 26
+    3300038: SBH_Funiture 27
+    3300040: SBH_Funiture 28
+    3300042: SBH_Funiture 29
+    3300044: SBH_Funiture 3
+    3300046: SBH_Funiture 4
+    3300048: SBH_Funiture 5
+    3300050: SBH_Funiture 6
+    3300052: SBH_Funiture 7
+    3300054: SBH_Funiture 8
+    3300056: SBH_Funiture 9
+    4300000: SBH_Funiture
+    4300002: SBH_Funiture
+    4300004: SBH_Funiture
+    4300006: SBH_Funiture
+    4300008: SBH_Funiture
+    4300010: SBH_Funiture
+    4300012: SBH_Funiture
+    4300014: SBH_Funiture
+    4300016: SBH_Funiture
+    4300018: SBH_Funiture
+    4300020: SBH_Funiture
+    4300022: SBH_Funiture
+    4300024: SBH_Funiture
+    4300026: SBH_Funiture
+    4300028: SBH_Funiture
+    4300030: SBH_Funiture
+    4300032: SBH_Funiture
+    4300034: SBH_Funiture
+    4300036: SBH_Funiture
+    4300038: SBH_Funiture
+    4300040: SBH_Funiture
+    4300042: SBH_Funiture
+    4300044: SBH_Funiture
+    4300046: SBH_Funiture
+    4300048: SBH_Funiture
+    4300050: SBH_Funiture
+    4300052: SBH_Funiture
+    4300054: SBH_Funiture
+    4300056: SBH_Funiture
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
