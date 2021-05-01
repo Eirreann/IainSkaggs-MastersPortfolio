@@ -1,0 +1,27 @@
+This package is a modification of the standard asset first-person characters so that they play nicely with controllers. They use the following virtual axes for controls:
+
+    Horizonal & Vertical - movement
+    Mouse X & Mouse Y - looking
+    Jump
+    Run
+
+Define those in the input manager (Project Settings -> Input) in order set up the controls. Default setup in Unity:
+
+    Horizonal & Vertical - arrow keys or WASD keys
+    Mouse X & Mouse Y - mouse movement
+    Jump - spacebar
+    Run - not assigned
+
+A Xbox 360 InputManager.asset setup is included in this package that has the following controls:
+
+    Horizonal & Vertical - left stick or arrow keys or WASD keys
+    Mouse X & Mouse Y - right stick or mouse movement
+    Jump - A button or spacebar
+    Run - press left stick or shift
+
+To use that InputManager:
+
+    1. Close Unity and open up your project folder in explorer/finder.
+    2. Make a backup of ProjectSettings/InputManager.asset (in case you want to go back to your previous setup).
+    3. Replace ProjectSettings/InputManager.asset with the InputManager.asset in this package.
+    4. Boot up Unity!
